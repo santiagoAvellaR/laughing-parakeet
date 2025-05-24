@@ -19,49 +19,49 @@
 }
 
 @font-face {
-    font-family: 'Avenirltstd medium';
+    font-family: 'Avenirltstd medium', sans-serif;
     src: url(../fonts/AvenirLTStd-Medium.eot) format("embedded-opentype"),url(../fonts/AvenirLTStd-Medium.woff) format("woff"),url(../fonts/AvenirLTStd-Medium.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro ultlt';
+    font-family: 'Avenirnextltpro ultlt', sans-serif;
     src: url(../fonts/AvenirNextLTPro-UltLt.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-UltLt.woff) format("woff"),url(../fonts/AvenirNextLTPro-UltLt.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-Regular.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Regular.woff) format("woff"),url(../fonts/AvenirNextLTPro-Regular.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro mediumcn';
+    font-family: 'Avenirnextltpro mediumcn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-MediumCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-MediumCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-MediumCn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro demi';
+    font-family: 'Avenirnextltpro demi', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Demi.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Demi.woff) format("woff"),url(../fonts/AvenirNextLTPro-Demi.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro cn';
+    font-family: 'Avenirnextltpro cn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Cn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Cn.woff) format("woff"),url(../fonts/AvenirNextLTPro-Cn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-BoldCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-BoldCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-BoldCn.ttf) format("truetype");
     font-weight: 800;
     font-style: normal
@@ -139,49 +139,49 @@
 }
 
 @font-face {
-    font-family: 'Avenirltstd medium';
+    font-family: 'Avenirltstd medium', sans-serif;
     src: url(../fonts/AvenirLTStd-Medium.eot) format("embedded-opentype"),url(../fonts/AvenirLTStd-Medium.woff) format("woff"),url(../fonts/AvenirLTStd-Medium.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro ultlt';
+    font-family: 'Avenirnextltpro ultlt', sans-serif;
     src: url(../fonts/AvenirNextLTPro-UltLt.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-UltLt.woff) format("woff"),url(../fonts/AvenirNextLTPro-UltLt.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-Regular.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Regular.woff) format("woff"),url(../fonts/AvenirNextLTPro-Regular.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro mediumcn';
+    font-family: 'Avenirnextltpro mediumcn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-MediumCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-MediumCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-MediumCn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro demi';
+    font-family: 'Avenirnextltpro demi', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Demi.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Demi.woff) format("woff"),url(../fonts/AvenirNextLTPro-Demi.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro cn';
+    font-family: 'Avenirnextltpro cn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Cn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Cn.woff) format("woff"),url(../fonts/AvenirNextLTPro-Cn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-BoldCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-BoldCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-BoldCn.ttf) format("truetype");
     font-weight: 800;
     font-style: normal
@@ -209,49 +209,49 @@
 }
 
 @font-face {
-    font-family: 'Avenirltstd medium';
+    font-family: 'Avenirltstd medium', sans-serif;
     src: url(../fonts/AvenirLTStd-Medium.eot) format("embedded-opentype"),url(../fonts/AvenirLTStd-Medium.woff) format("woff"),url(../fonts/AvenirLTStd-Medium.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro ultlt';
+    font-family: 'Avenirnextltpro ultlt', sans-serif;
     src: url(../fonts/AvenirNextLTPro-UltLt.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-UltLt.woff) format("woff"),url(../fonts/AvenirNextLTPro-UltLt.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-Regular.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Regular.woff) format("woff"),url(../fonts/AvenirNextLTPro-Regular.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro mediumcn';
+    font-family: 'Avenirnextltpro mediumcn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-MediumCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-MediumCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-MediumCn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro demi';
+    font-family: 'Avenirnextltpro demi', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Demi.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Demi.woff) format("woff"),url(../fonts/AvenirNextLTPro-Demi.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro cn';
+    font-family: 'Avenirnextltpro cn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Cn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Cn.woff) format("woff"),url(../fonts/AvenirNextLTPro-Cn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-BoldCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-BoldCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-BoldCn.ttf) format("truetype");
     font-weight: 800;
     font-style: normal
@@ -521,49 +521,49 @@ footer .container-footer .container-end {
 }
 
 @font-face {
-    font-family: 'Avenirltstd medium';
+    font-family: 'Avenirltstd medium', sans-serif;
     src: url(../fonts/AvenirLTStd-Medium.eot) format("embedded-opentype"),url(../fonts/AvenirLTStd-Medium.woff) format("woff"),url(../fonts/AvenirLTStd-Medium.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro ultlt';
+    font-family: 'Avenirnextltpro ultlt', sans-serif;
     src: url(../fonts/AvenirNextLTPro-UltLt.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-UltLt.woff) format("woff"),url(../fonts/AvenirNextLTPro-UltLt.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-Regular.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Regular.woff) format("woff"),url(../fonts/AvenirNextLTPro-Regular.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro mediumcn';
+    font-family: 'Avenirnextltpro mediumcn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-MediumCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-MediumCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-MediumCn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro demi';
+    font-family: 'Avenirnextltpro demi', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Demi.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Demi.woff) format("woff"),url(../fonts/AvenirNextLTPro-Demi.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro cn';
+    font-family: 'Avenirnextltpro cn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Cn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Cn.woff) format("woff"),url(../fonts/AvenirNextLTPro-Cn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-BoldCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-BoldCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-BoldCn.ttf) format("truetype");
     font-weight: 800;
     font-style: normal
@@ -1627,49 +1627,49 @@ body {
 }
 
 @font-face {
-    font-family: 'Avenirltstd medium';
+    font-family: 'Avenirltstd medium', sans-serif;
     src: url(../fonts/AvenirLTStd-Medium.eot) format("embedded-opentype"),url(../fonts/AvenirLTStd-Medium.woff) format("woff"),url(../fonts/AvenirLTStd-Medium.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro ultlt';
+    font-family: 'Avenirnextltpro ultlt', sans-serif;
     src: url(../fonts/AvenirNextLTPro-UltLt.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-UltLt.woff) format("woff"),url(../fonts/AvenirNextLTPro-UltLt.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-Regular.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Regular.woff) format("woff"),url(../fonts/AvenirNextLTPro-Regular.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro mediumcn';
+    font-family: 'Avenirnextltpro mediumcn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-MediumCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-MediumCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-MediumCn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro demi';
+    font-family: 'Avenirnextltpro demi', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Demi.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Demi.woff) format("woff"),url(../fonts/AvenirNextLTPro-Demi.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro cn';
+    font-family: 'Avenirnextltpro cn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Cn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Cn.woff) format("woff"),url(../fonts/AvenirNextLTPro-Cn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-BoldCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-BoldCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-BoldCn.ttf) format("truetype");
     font-weight: 800;
     font-style: normal
@@ -2049,49 +2049,49 @@ header {
 }
 
 @font-face {
-    font-family: 'Avenirltstd medium';
+    font-family: 'Avenirltstd medium', sans-serif;
     src: url(../fonts/AvenirLTStd-Medium.eot) format("embedded-opentype"),url(../fonts/AvenirLTStd-Medium.woff) format("woff"),url(../fonts/AvenirLTStd-Medium.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro ultlt';
+    font-family: 'Avenirnextltpro ultlt', sans-serif;
     src: url(../fonts/AvenirNextLTPro-UltLt.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-UltLt.woff) format("woff"),url(../fonts/AvenirNextLTPro-UltLt.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-Regular.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Regular.woff) format("woff"),url(../fonts/AvenirNextLTPro-Regular.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro mediumcn';
+    font-family: 'Avenirnextltpro mediumcn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-MediumCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-MediumCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-MediumCn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro demi';
+    font-family: 'Avenirnextltpro demi', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Demi.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Demi.woff) format("woff"),url(../fonts/AvenirNextLTPro-Demi.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro cn';
+    font-family: 'Avenirnextltpro cn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Cn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Cn.woff) format("woff"),url(../fonts/AvenirNextLTPro-Cn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-BoldCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-BoldCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-BoldCn.ttf) format("truetype");
     font-weight: 800;
     font-style: normal
@@ -2227,49 +2227,49 @@ header {
 }
 
 @font-face {
-    font-family: 'Avenirltstd medium';
+    font-family: 'Avenirltstd medium', sans-serif;
     src: url(../fonts/AvenirLTStd-Medium.eot) format("embedded-opentype"),url(../fonts/AvenirLTStd-Medium.woff) format("woff"),url(../fonts/AvenirLTStd-Medium.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro ultlt';
+    font-family: 'Avenirnextltpro ultlt', sans-serif;
     src: url(../fonts/AvenirNextLTPro-UltLt.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-UltLt.woff) format("woff"),url(../fonts/AvenirNextLTPro-UltLt.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-Regular.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Regular.woff) format("woff"),url(../fonts/AvenirNextLTPro-Regular.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro mediumcn';
+    font-family: 'Avenirnextltpro mediumcn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-MediumCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-MediumCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-MediumCn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro demi';
+    font-family: 'Avenirnextltpro demi', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Demi.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Demi.woff) format("woff"),url(../fonts/AvenirNextLTPro-Demi.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro cn';
+    font-family: 'Avenirnextltpro cn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Cn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Cn.woff) format("woff"),url(../fonts/AvenirNextLTPro-Cn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-BoldCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-BoldCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-BoldCn.ttf) format("truetype");
     font-weight: 800;
     font-style: normal
@@ -2393,18 +2393,34 @@ header {
 }
 
 .input-country {
-    width: 100;
+    width: 100%;
     z-index: 10;
     position: relative;
     display: flex;
-    gap: 8px
+    gap: 8px;
+    align-items: center;
 }
 
 .input-country .wrap-select-country {
-    display: inline-block;
-    height: 50px;
+    display: flex;
+    align-items: center;
+    height: 48px;
     vertical-align: middle;
-    width: 45%
+    width: 90px;
+    min-width: unset;
+    margin-right: 8px;
+    padding: 0 4px;
+    box-sizing: border-box;
+}
+
+.input-country .form-group {
+    flex: 1;
+    margin: 0;
+}
+
+.input-country input[type="tel"] {
+    width: 100%;
+    min-width: 120px;
 }
 
 .input-country .select-country.open-select-country ul {
@@ -2523,49 +2539,49 @@ header {
 }
 
 @font-face {
-    font-family: 'Avenirltstd medium';
+    font-family: 'Avenirltstd medium', sans-serif;
     src: url(../fonts/AvenirLTStd-Medium.eot) format("embedded-opentype"),url(../fonts/AvenirLTStd-Medium.woff) format("woff"),url(../fonts/AvenirLTStd-Medium.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro ultlt';
+    font-family: 'Avenirnextltpro ultlt', sans-serif;
     src: url(../fonts/AvenirNextLTPro-UltLt.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-UltLt.woff) format("woff"),url(../fonts/AvenirNextLTPro-UltLt.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-Regular.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Regular.woff) format("woff"),url(../fonts/AvenirNextLTPro-Regular.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro mediumcn';
+    font-family: 'Avenirnextltpro mediumcn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-MediumCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-MediumCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-MediumCn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro demi';
+    font-family: 'Avenirnextltpro demi', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Demi.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Demi.woff) format("woff"),url(../fonts/AvenirNextLTPro-Demi.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro cn';
+    font-family: 'Avenirnextltpro cn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Cn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Cn.woff) format("woff"),url(../fonts/AvenirNextLTPro-Cn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-BoldCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-BoldCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-BoldCn.ttf) format("truetype");
     font-weight: 800;
     font-style: normal
@@ -2650,49 +2666,49 @@ header {
 }
 
 @font-face {
-    font-family: 'Avenirltstd medium';
+    font-family: 'Avenirltstd medium', sans-serif;
     src: url(../fonts/AvenirLTStd-Medium.eot) format("embedded-opentype"),url(../fonts/AvenirLTStd-Medium.woff) format("woff"),url(../fonts/AvenirLTStd-Medium.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro ultlt';
+    font-family: 'Avenirnextltpro ultlt', sans-serif;
     src: url(../fonts/AvenirNextLTPro-UltLt.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-UltLt.woff) format("woff"),url(../fonts/AvenirNextLTPro-UltLt.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-Regular.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Regular.woff) format("woff"),url(../fonts/AvenirNextLTPro-Regular.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro mediumcn';
+    font-family: 'Avenirnextltpro mediumcn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-MediumCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-MediumCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-MediumCn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro demi';
+    font-family: 'Avenirnextltpro demi', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Demi.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Demi.woff) format("woff"),url(../fonts/AvenirNextLTPro-Demi.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro cn';
+    font-family: 'Avenirnextltpro cn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Cn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Cn.woff) format("woff"),url(../fonts/AvenirNextLTPro-Cn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-BoldCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-BoldCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-BoldCn.ttf) format("truetype");
     font-weight: 800;
     font-style: normal
@@ -2885,49 +2901,49 @@ header {
 }
 
 @font-face {
-    font-family: 'Avenirltstd medium';
+    font-family: 'Avenirltstd medium', sans-serif;
     src: url(../fonts/AvenirLTStd-Medium.eot) format("embedded-opentype"),url(../fonts/AvenirLTStd-Medium.woff) format("woff"),url(../fonts/AvenirLTStd-Medium.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro ultlt';
+    font-family: 'Avenirnextltpro ultlt', sans-serif;
     src: url(../fonts/AvenirNextLTPro-UltLt.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-UltLt.woff) format("woff"),url(../fonts/AvenirNextLTPro-UltLt.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-Regular.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Regular.woff) format("woff"),url(../fonts/AvenirNextLTPro-Regular.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro mediumcn';
+    font-family: 'Avenirnextltpro mediumcn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-MediumCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-MediumCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-MediumCn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro demi';
+    font-family: 'Avenirnextltpro demi', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Demi.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Demi.woff) format("woff"),url(../fonts/AvenirNextLTPro-Demi.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro cn';
+    font-family: 'Avenirnextltpro cn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Cn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Cn.woff) format("woff"),url(../fonts/AvenirNextLTPro-Cn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-BoldCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-BoldCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-BoldCn.ttf) format("truetype");
     font-weight: 800;
     font-style: normal
@@ -3148,49 +3164,49 @@ header {
 }
 
 @font-face {
-    font-family: 'Avenirltstd medium';
+    font-family: 'Avenirltstd medium', sans-serif;
     src: url(../fonts/AvenirLTStd-Medium.eot) format("embedded-opentype"),url(../fonts/AvenirLTStd-Medium.woff) format("woff"),url(../fonts/AvenirLTStd-Medium.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro ultlt';
+    font-family: 'Avenirnextltpro ultlt', sans-serif;
     src: url(../fonts/AvenirNextLTPro-UltLt.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-UltLt.woff) format("woff"),url(../fonts/AvenirNextLTPro-UltLt.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-Regular.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Regular.woff) format("woff"),url(../fonts/AvenirNextLTPro-Regular.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro mediumcn';
+    font-family: 'Avenirnextltpro mediumcn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-MediumCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-MediumCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-MediumCn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro demi';
+    font-family: 'Avenirnextltpro demi', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Demi.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Demi.woff) format("woff"),url(../fonts/AvenirNextLTPro-Demi.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro cn';
+    font-family: 'Avenirnextltpro cn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Cn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Cn.woff) format("woff"),url(../fonts/AvenirNextLTPro-Cn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-BoldCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-BoldCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-BoldCn.ttf) format("truetype");
     font-weight: 800;
     font-style: normal
@@ -3310,49 +3326,49 @@ header {
 }
 
 @font-face {
-    font-family: 'Avenirltstd medium';
+    font-family: 'Avenirltstd medium', sans-serif;
     src: url(../fonts/AvenirLTStd-Medium.eot) format("embedded-opentype"),url(../fonts/AvenirLTStd-Medium.woff) format("woff"),url(../fonts/AvenirLTStd-Medium.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro ultlt';
+    font-family: 'Avenirnextltpro ultlt', sans-serif;
     src: url(../fonts/AvenirNextLTPro-UltLt.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-UltLt.woff) format("woff"),url(../fonts/AvenirNextLTPro-UltLt.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-Regular.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Regular.woff) format("woff"),url(../fonts/AvenirNextLTPro-Regular.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro mediumcn';
+    font-family: 'Avenirnextltpro mediumcn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-MediumCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-MediumCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-MediumCn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro demi';
+    font-family: 'Avenirnextltpro demi', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Demi.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Demi.woff) format("woff"),url(../fonts/AvenirNextLTPro-Demi.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: 'Avenirnextltpro cn';
+    font-family: 'Avenirnextltpro cn', sans-serif;
     src: url(../fonts/AvenirNextLTPro-Cn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-Cn.woff) format("woff"),url(../fonts/AvenirNextLTPro-Cn.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
-    font-family: Avenirnextltpro;
+    font-family: Avenirnextltpro, sans-serif;
     src: url(../fonts/AvenirNextLTPro-BoldCn.eot) format("embedded-opentype"),url(../fonts/AvenirNextLTPro-BoldCn.woff) format("woff"),url(../fonts/AvenirNextLTPro-BoldCn.ttf) format("truetype");
     font-weight: 800;
     font-style: normal
@@ -3381,4 +3397,22 @@ header {
 
 [data-icon]:before {
     content: attr(data-icon)
+}
+
+.input-country .wrap-select-country {
+    display: flex;
+    align-items: center;
+    height: 48px;
+    vertical-align: middle;
+    width: 90px;
+    min-width: unset;
+    margin-right: 8px;
+    padding: 0 4px;
+    box-sizing: border-box;
+}
+
+.input-country .select-col-img img {
+    width: 28px;
+    height: 20px;
+    object-fit: contain;
 }
